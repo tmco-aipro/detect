@@ -1,0 +1,9 @@
+Flask==2.2.3
+Jinja2==3.1.2
+Werkzeug
+gunicorn==20.0.4
+Pillow==9.5.0
+matplotlib
+scipy
+torch
+torchvision
