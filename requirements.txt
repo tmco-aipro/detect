@@ -3,6 +3,7 @@ Jinja2==3.1.2
 Werkzeug
 gunicorn==20.0.4
 matplotlib
+scipy
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==1.13.1+cpu
 torchvision
