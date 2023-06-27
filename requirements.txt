@@ -4,5 +4,5 @@ Werkzeug
 gunicorn==20.0.4
 matplotlib
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.8.1+cpu
+torch==1.13.1+cpu
 torchvision
