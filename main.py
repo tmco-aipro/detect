@@ -6,7 +6,7 @@ import base64
 
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_agg import FigureCanvasAgg
-from PIL import Image
+#from PIL import Image
 
 #import ipywidgets as widgets
 #from IPython.display import display, clear_output
